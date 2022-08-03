@@ -1,0 +1,11 @@
+para fazer clonar o repositório
+git clone + url
+
+caso a pagina que esteja mexendo não for a que está o repositorio basta colocar 'cd' que irá complementar e indicar até
+a pagina indicada.
+caso não a  saiba pagina  use 'dir'
+
+git status - ira ver o que foi colocado no repositorio
+git add - para adicionar o que foi feito de novo no repositorio
+git commit-m - vai descrever o que foi atualizado e colocado no repositorio
+git push - vai subir o que acrescentado para o repositorio no github
